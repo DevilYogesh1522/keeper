@@ -1,0 +1,10 @@
+mkdir
+cd
+create text fir
+git init
+git add .
+git status
+git remote add origin 'url'
+git commit -m ' first commit'
+git status
+git push -u origin master
